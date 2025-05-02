@@ -5,8 +5,9 @@ Repositório destinado à organização dos meus estudos do curso Programe.py, o
 ### Aulas
 
 - [x] Aula 1 - Conceitos básicos  
-- [ ] Aula 2 - Condicionais
+- [ ] Aula 2 -  Estruturas Condicionais
 
 ### Listas de Exercícios
 
-- [ ] Lista de Exercícios - Conceitos básicos
+- [ ] Lista de Exercícios 1 - Conceitos básicos
+- [ ] Lista de Exercícios 2 - Estruturas condicionais
